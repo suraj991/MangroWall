@@ -202,8 +202,7 @@ All figures are satellite imagery processed in Google Earth Engine and exported 
 
 ## 👥 Team
 
-Built for **SpaceHack ASU 2026** — a space-technology hackathon focused on Earth observation and climate resilience.
-
+Built solo for **SpaceHack ASU 2026** — a space-technology hackathon focused on Earth observation and climate resilience.
 ---
 
 *"A rapidly urbanizing, low-lying coastal region with unstable mangrove ecosystems creates increasing flood risk for millions of people."*
