@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Guayaquil Centro", "lat": -2.19, "lng": -79.90, "risk": "High", "pop": 185000, "ndvi": 0.32, "area": 45, "mangrove2015": 12, "mangrove2024": 8, "restored": "Moderate" },
+  { "id": 2, "name": "Durán", "lat": -2.17, "lng": -79.83, "risk": "Critical", "pop": 95000, "ndvi": 0.18, "area": 38, "mangrove2015": 22, "mangrove2024": 14, "restored": "High" },
+  { "id": 3, "name": "Samborondón", "lat": -1.96, "lng": -79.73, "risk": "Moderate", "pop": 72000, "ndvi": 0.55, "area": 62, "mangrove2015": 35, "mangrove2024": 38, "restored": "Low" },
+  { "id": 4, "name": "Daule", "lat": -1.86, "lng": -79.97, "risk": "Moderate", "pop": 68000, "ndvi": 0.61, "area": 85, "mangrove2015": 58, "mangrove2024": 62, "restored": "Low" },
+  { "id": 5, "name": "Isla Trinitaria", "lat": -2.24, "lng": -79.93, "risk": "Critical", "pop": 120000, "ndvi": 0.15, "area": 18, "mangrove2015": 8, "mangrove2024": 3, "restored": "High" },
+  { "id": 6, "name": "Estero Salado", "lat": -2.20, "lng": -79.95, "risk": "High", "pop": 88000, "ndvi": 0.28, "area": 30, "mangrove2015": 18, "mangrove2024": 11, "restored": "Moderate" },
+  { "id": 7, "name": "Puerto Azul", "lat": -2.15, "lng": -79.97, "risk": "Low", "pop": 42000, "ndvi": 0.72, "area": 55, "mangrove2015": 42, "mangrove2024": 48, "restored": "Low" },
+  { "id": 8, "name": "Pascuales", "lat": -2.07, "lng": -79.95, "risk": "Moderate", "pop": 55000, "ndvi": 0.48, "area": 40, "mangrove2015": 28, "mangrove2024": 25, "restored": "Low" },
+  { "id": 9, "name": "Guayas River Delta", "lat": -2.30, "lng": -79.88, "risk": "Critical", "pop": 35000, "ndvi": 0.22, "area": 120, "mangrove2015": 95, "mangrove2024": 72, "restored": "Moderate" },
+  { "id": 10, "name": "Mangrove Reserve South", "lat": -2.40, "lng": -79.92, "risk": "Low", "pop": 12000, "ndvi": 0.78, "area": 200, "mangrove2015": 180, "mangrove2024": 185, "restored": "Low" },
+  { "id": 11, "name": "Northern Wetlands", "lat": -1.92, "lng": -79.88, "risk": "Low", "pop": 28000, "ndvi": 0.68, "area": 95, "mangrove2015": 72, "mangrove2024": 78, "restored": "Low" },
+  { "id": 12, "name": "Mapasingue", "lat": -2.14, "lng": -79.96, "risk": "High", "pop": 145000, "ndvi": 0.25, "area": 22, "mangrove2015": 10, "mangrove2024": 5, "restored": "Moderate" }
+]

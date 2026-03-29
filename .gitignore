@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Env files (keep secrets out, but commit .env.example as a template)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Editor
+.vscode/settings.json
+.idea/
+

@@ -1,0 +1,23 @@
+{
+  "0": {
+    "label": "Current",
+    "popRisk": { "Low": 492, "Moderate": 1000, "High": 471, "Critical": 408 },
+    "protected": 55,
+    "mangroveArea": 1894,
+    "economicLoss": 2.8
+  },
+  "1": {
+    "label": "Restore to 2015",
+    "popRisk": { "Low": 580, "Moderate": 1050, "High": 901, "Critical": 320 },
+    "protected": 68,
+    "mangroveArea": 2126,
+    "economicLoss": 1.9
+  },
+  "2": {
+    "label": "Expand 20%",
+    "popRisk": { "Low": 650, "Moderate": 1100, "High": 800, "Critical": 250 },
+    "protected": 76,
+    "mangroveArea": 2273,
+    "economicLoss": 1.2
+  }
+}

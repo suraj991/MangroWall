@@ -1,0 +1,162 @@
+[
+  {
+    "id": "study-area",
+    "title": "Study Area – Greater Guayaquil",
+    "description": "Bounding box covering approximately 7,908 km² of the Greater Guayaquil region used for the GEE analysis.",
+    "filename": "study-area.png",
+    "category": "overview",
+    "pdfPage": 1
+  },
+  {
+    "id": "mangrove-overview",
+    "title": "Mangrove Distribution Overview",
+    "description": "Current mangrove distribution across the Guayaquil estuary showing green coverage areas.",
+    "filename": "mangrove-overview.png",
+    "category": "overview",
+    "pdfPage": 2
+  },
+  {
+    "id": "change-detection",
+    "title": "Mangrove Change Detection (2015–2024)",
+    "description": "Change detection map. Green = gain, Red = loss, Blue = water. Shows net mangrove dynamics over 9 years.",
+    "filename": "change-detection.png",
+    "category": "change",
+    "pdfPage": 3
+  },
+  {
+    "id": "mangrove-2015",
+    "title": "Mangrove Extent 2015 (Baseline)",
+    "description": "Baseline mangrove coverage in 2015. Total area: 1,358 km².",
+    "filename": "mangrove-2015.png",
+    "category": "change",
+    "pdfPage": 4
+  },
+  {
+    "id": "mangrove-2024",
+    "title": "Mangrove Extent 2024 (Current State)",
+    "description": "Current mangrove coverage in 2024. Total area: 1,894 km². Net gain of 536 km² since 2015.",
+    "filename": "mangrove-2024.png",
+    "category": "change",
+    "pdfPage": 5
+  },
+  {
+    "id": "loss-hotspots",
+    "title": "Mangrove Loss Hotspot Analysis",
+    "description": "High-resolution hotspot map identifying areas of concentrated mangrove loss. Blue = water, Red = loss zones.",
+    "filename": "loss-hotspots.png",
+    "category": "change",
+    "pdfPage": 6
+  },
+  {
+    "id": "health-2024",
+    "title": "Mangrove Health Classification (2024)",
+    "description": "NDVI-based health classification. Green = healthy (NDVI > 0.5), Yellow = moderate, Orange = stressed.",
+    "filename": "health-2024.png",
+    "category": "health",
+    "pdfPage": 7
+  },
+  {
+    "id": "flood-risk",
+    "title": "Flood Risk Classification Map",
+    "description": "Flood risk scoring for the Guayaquil region. Green = Low, Orange = Moderate, Red = High, Purple = Critical.",
+    "filename": "flood-risk.png",
+    "category": "risk",
+    "pdfPage": 9
+  },
+  {
+    "id": "protection-gap",
+    "title": "Mangrove Protection Gap Analysis",
+    "description": "Coastal protection coverage analysis. Green = mangrove-protected, Red = unprotected high-risk zones (~45% of coastline).",
+    "filename": "protection-gap.png",
+    "category": "risk",
+    "pdfPage": 10
+  },
+  {
+    "id": "population-exposure",
+    "title": "Population Exposure to Flood Risk",
+    "description": "Population density overlaid with flood risk zones. Purple = critical exposure along Guayas delta river network.",
+    "filename": "population-exposure.png",
+    "category": "risk",
+    "pdfPage": 11
+  },
+  {
+    "id": "mangrove-loss-vulnerability",
+    "title": "Mangrove Loss Driving Flood Vulnerability",
+    "description": "Areas where mangrove loss (red dots) directly drives increased flood vulnerability for communities.",
+    "filename": "mangrove-loss-vulnerability.png",
+    "category": "restoration",
+    "pdfPage": 14
+  },
+  {
+    "id": "post-restoration-risk",
+    "title": "Flood Risk After Mangrove Restoration",
+    "description": "Simulated flood risk scenario after restoring mangroves to 2015 extent. Shows risk reduction across the delta.",
+    "filename": "post-restoration-risk.png",
+    "category": "restoration",
+    "pdfPage": 15
+  },
+  {
+    "id": "expansion-strategy",
+    "title": "Optimized Mangrove Expansion Strategy",
+    "description": "Priority areas for mangrove expansion targeting maximum flood risk reduction for exposed communities.",
+    "filename": "expansion-strategy.png",
+    "category": "restoration",
+    "pdfPage": 16
+  },
+  {
+    "id": "risk-reduction",
+    "title": "Flood Risk Reduction from Mangrove Expansion",
+    "description": "Projected risk reduction across Guayaquil region after full mangrove expansion strategy implementation.",
+    "filename": "risk-reduction.png",
+    "category": "restoration",
+    "pdfPage": 17
+  },
+  {
+    "id": "urban-expansion",
+    "title": "Urban Expansion (2015–2024)",
+    "description": "Urban growth in Greater Guayaquil. Magenta = new urban development. City area doubled from 243 to 496 km².",
+    "filename": "urban-expansion.png",
+    "category": "urban",
+    "pdfPage": 21
+  },
+  {
+    "id": "mangrove-to-urban",
+    "title": "Mangrove Areas Converted to Urban Land",
+    "description": "Areas where mangroves were directly converted to urban development. ~8.9 km² of direct ecological loss.",
+    "filename": "mangrove-to-urban.png",
+    "category": "urban",
+    "pdfPage": 22
+  },
+  {
+    "id": "urban-flood-overlap",
+    "title": "Urban Expansion into Flood-Prone Areas",
+    "description": "New urban development (purple) overlapping critical flood zones — 115 km² of new urban in high-risk areas.",
+    "filename": "urban-flood-overlap.png",
+    "category": "urban",
+    "pdfPage": 23
+  },
+  {
+    "id": "urban-risk-zones",
+    "title": "Urban Growth Overlapping Flood Risk Zones",
+    "description": "Composite map of urban growth (magenta) against flood risk classification (blue). Shows compounding risk.",
+    "filename": "urban-risk-zones.png",
+    "category": "urban",
+    "pdfPage": 24
+  },
+  {
+    "id": "timeseries-charts",
+    "title": "Mangrove Area Trend (2015–2024)",
+    "description": "Time-series chart showing mangrove area over time — sharp decline to 2017 low, followed by partial recovery through 2024.",
+    "filename": "timeseries-charts.png",
+    "category": "overview",
+    "pdfPage": 28
+  },
+  {
+    "id": "timeseries-ndvi",
+    "title": "Mean NDVI Trend (2015–2024)",
+    "description": "Average NDVI in mangrove-suitable zones over time. Dropped near zero around 2016–2017, recovering gradually after 2020.",
+    "filename": "timeseries-charts2.png",
+    "category": "health",
+    "pdfPage": 28
+  }
+]
